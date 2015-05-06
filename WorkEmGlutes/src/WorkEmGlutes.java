@@ -24,7 +24,7 @@ public class WorkEmGlutes {
 	}
 	
 	public static String[][] Organizer(){
-		
+		System.out.println("yoyo");
 		return workOut;
 	}
 	
