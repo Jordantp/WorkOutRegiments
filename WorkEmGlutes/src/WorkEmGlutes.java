@@ -20,6 +20,7 @@ public class WorkEmGlutes {
 
 	public static void main(String[] args) {
 		ask();
+		System.out.println("Yous a hoe");
 
 	}
 	
